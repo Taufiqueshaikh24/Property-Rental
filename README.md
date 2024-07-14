@@ -6,7 +6,8 @@ This is the main project from my [Next 14 From Scratch Course]((https://github.c
 
 The `_theme_files` folder contains the pure HTML files with Tailwind classes.
 
-<img src="/public/images/screen.jpg" />
+![image](https://github.com/user-attachments/assets/c3a8a979-8e0d-48ec-949b-614c8fb9f580)
+
 
 ## Features
 
